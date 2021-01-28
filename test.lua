@@ -3,3 +3,4 @@ This is a test file
  firstBranch
 
  get commit firstBranch
+ git commit frestBranch after revert 1
