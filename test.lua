@@ -1,5 +1,4 @@
 This is a test file
- secBranch commit
- firstBranch
 
- get commit firstBranch
+ secBranch commit
+ after merge secBranch commit 
